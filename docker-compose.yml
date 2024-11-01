@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  usermanagmentmicroservice:
+    image: ${DOCKER_REGISTRY-}usermanagmentmicroservice
+    build:
+      context: .
+      dockerfile: UserManagmentMicroservice/Dockerfile

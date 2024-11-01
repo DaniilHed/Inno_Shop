@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.Net Core\\Inno_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\tests\\integrationtests\\controllers\\productcontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\tests\\integrationtests\\controllers\\productcontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\api\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\api\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\tests\\unittests\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\tests\\unittests\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\tests\\integrationtests\\conttollers\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\tests\\integrationtests\\conttollers\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\tests\\integrationtests\\conttollers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\tests\\integrationtests\\conttollers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\aplication\\models\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\aplication\\models\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\tests\\unittests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\tests\\unittests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\aplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\aplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\aplication\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\aplication\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\domain\\entities\\useridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\domain\\entities\\useridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\aplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\aplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\aplication\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\aplication\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\infrastructure\\dbcontexts\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\infrastructure\\dbcontexts\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\usermanagmentmicroservice\\aplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7305F1C-1B25-4C22-80C9-7BEEC9C2FE3F}|UserManagmentMicroservice\\UserManagmentMicroservice.csproj|solutionrelative:usermanagmentmicroservice\\aplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\productmanagmentmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\productmanagmentmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\infrastructure\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\infrastructure\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\infrastructure\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\infrastructure\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\aplication\\dtos\\productfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\aplication\\dtos\\productfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\aplication\\interafaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\aplication\\interafaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\aplication\\validators\\productdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\aplication\\validators\\productdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|c:\\asp.net core\\inno_shop\\productmanagmentmicroservice\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BC26F4-C2C3-4C8C-8B42-558B6DF31719}|ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj|solutionrelative:productmanagmentmicroservice\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T15:18:46.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Dockerfile",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Dockerfile",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Dockerfile",
+              "RelativeToolTip": "UserManagmentMicroservice\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T15:15:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductControllersTests.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Tests\\IntegrationTests\\Controllers\\ProductControllersTests.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Tests\\IntegrationTests\\Controllers\\ProductControllersTests.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Tests\\IntegrationTests\\Controllers\\ProductControllersTests.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Tests\\IntegrationTests\\Controllers\\ProductControllersTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAKgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:54:27.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Models\\OperationResult.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Aplication\\Models\\OperationResult.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Models\\OperationResult.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Aplication\\Models\\OperationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:43:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\UserControllerTests.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\UserControllerTests.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\UserControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:41:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:40:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Program.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Program.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:13:41.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\AuthControllerTests.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Tests\\IntegrationTests\\Conttollers\\AuthControllerTests.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAEwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:47:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Tests\\UnitTests\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Tests\\UnitTests\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Tests\\UnitTests\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Tests\\UnitTests\\Services\\ProductServiceTests.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAMgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:34:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Tests\\UnitTests\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Tests\\UnitTests\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Tests\\UnitTests\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Tests\\UnitTests\\Services\\UserServiceTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwv84AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:12.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserIdentity.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Domain\\Entities\\UserIdentity.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Domain\\Entities\\UserIdentity.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Domain\\Entities\\UserIdentity.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Domain\\Entities\\UserIdentity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:12:40.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\API\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\API\\ProductController.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\API\\ProductController.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\API\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:30:12.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Aplication\\Services\\UserService.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Services\\UserService.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Aplication\\Services\\UserService.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAADwv9oAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:54:40.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Aplication\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Aplication\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:51:24.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\appsettings.json",
+              "RelativeToolTip": "ProductManagmentMicroservice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T15:04:46.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:30:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\appsettings.json",
+              "RelativeToolTip": "UserManagmentMicroservice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T18:48:03.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Program.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Program.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAABBwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:11:17.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Aplication\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Aplication\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:35:28.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Infrastructure\\DbContexts\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Infrastructure\\DbContexts\\UserDbContext.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Infrastructure\\DbContexts\\UserDbContext.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Infrastructure\\DbContexts\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:08:57.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:34:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Aplication\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Aplication\\Services\\ProductService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv28AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:15:10.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserManagmentMicroservice\\Aplication\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\UserManagmentMicroservice\\Aplication\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "UserManagmentMicroservice\\Aplication\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:30:01.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductFilterDto.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Dtos\\ProductFilterDto.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Aplication\\Dtos\\ProductFilterDto.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Dtos\\ProductFilterDto.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Aplication\\Dtos\\ProductFilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:25:06.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Interafaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Aplication\\Interafaces\\IProductService.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Interafaces\\IProductService.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Aplication\\Interafaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:01:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDtoValidator.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Validators\\ProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Aplication\\Validators\\ProductDtoValidator.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Aplication\\Validators\\ProductDtoValidator.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Aplication\\Validators\\ProductDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:01:59.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductManagmentMicroservice.csproj",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj",
+              "RelativeToolTip": "ProductManagmentMicroservice\\ProductManagmentMicroservice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T22:29:40.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:20:11.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Infrastructure\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Infrastructure\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Infrastructure\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Infrastructure\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:54:40.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:38:12.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagmentMicroservice\\Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Asp.Net Core\\Inno_Shop\\ProductManagmentMicroservice\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductManagmentMicroservice\\Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:33:35.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
